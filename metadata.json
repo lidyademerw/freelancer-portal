@@ -1,0 +1,6 @@
+{
+  "name": "Freelancer Client Portal",
+  "description": "A high-fidelity interactive preview of a premium B2B Freelancer Client Portal with dynamic brand styling, client & admin dashboards, and copyable developer assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

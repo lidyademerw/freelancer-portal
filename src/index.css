@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: var(--primary, #6366f1);
+  --color-brand: var(--brand-color, #6366f1);
+}
+
+/* Base custom interactive adjustments */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
